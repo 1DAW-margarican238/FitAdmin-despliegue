@@ -15,6 +15,7 @@ Está pensada para cubrir el día a día de cualquier gimnasio: gestión de soci
 - Correos transaccionales — emails automáticos de bienvenida, aprobación y comunicaciones masivas via Resend
 - Módulos opcionales — pistas de pádel con sistema de reservas y clases grupales con control de aforo (Spinning, Crossfit, Piscina...)
 - Panel de estadísticas — gráficas y métricas en tiempo real para admins
+- Torno — usando una placa podemos comprobar cuando el usuario al que esta asignado entra y sale del gimnasio.
 
 
 # Stack tecnológico
