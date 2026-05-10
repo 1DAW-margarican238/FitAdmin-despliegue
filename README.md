@@ -4,6 +4,7 @@ FitAdmin es una plataforma SaaS para la gestión integral de gimnasios. Cada gim
 
 Está pensada para cubrir el día a día de cualquier gimnasio: gestión de socios y membresías, control de equipamiento e incidencias, administración del personal con distintos niveles de acceso, pagos online con Stripe, y generación automática de rutinas de entrenamiento personalizadas mediante inteligencia artificial.
 
+En esta misma carpeta tenemos el proyecto del torno, el cual enseñaremos en persona con la placa y chapa física que hemos creado.
 
 # Características principales
 
